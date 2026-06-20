@@ -59,7 +59,7 @@ customer-shopping-analysis/
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard/dashboard_screenshot.png)
+![Customer Behavior Dashboard](Dashboard/Dashboard_ss.PNG)
 
 > The dashboard includes filters for Subscription Status, Gender, Category, and Shipping Type. Visuals cover revenue by category, sales by age group, and subscription distribution.
 
